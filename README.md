@@ -169,6 +169,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [jwt-auth](https://github.com/adam-hanna/jwt-auth) - JWT middleware for Golang http servers with many configuration options.
 * [loginsrv](https://github.com/tarent/loginsrv) - JWT login microservice with plugable backends such as OAuth2 (Github), htpasswd, osiam.
 * [oauth2](https://github.com/golang/oauth2) - Successor of goauth2. Generic OAuth 2.0 package that comes with JWT, Google APIs, Compute Engine and App Engine support.
+* [oidc](https://github.com/caos/oidc) - OpenID Connect Library (client and server) for Go
 * [osin](https://github.com/openshift/osin) - Golang OAuth2 server library.
 * [otpgen](https://github.com/grijul/otpgen) - Library to generate TOTP/HOTP codes.
 * [otpgo](https://github.com/jltorresm/otpgo) - Time-Based One-Time Password (TOTP) and HMAC-Based One-Time Password (HOTP) library for Go.
