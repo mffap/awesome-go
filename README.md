@@ -286,6 +286,7 @@ _Libraries for implementing authentication schemes._
 - [sessions](https://github.com/adam-hanna/sessions) - Dead simple, highly performant, highly customizable sessions service for go http servers.
 - [sessionup](https://github.com/swithek/sessionup) - Simple, yet effective HTTP session management and identification package.
 - [sjwt](https://github.com/brianvoe/sjwt) - Simple jwt generator and parser.
+- [zitadel](https://github.com/zitadel/zitadel) - Cloud-native identity provider written in Golang with support for OIDC, SAML, OAuth 2
 
 **[⬆ back to top](#contents)**
 
